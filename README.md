@@ -1,6 +1,6 @@
 # AT&T Valid Number Checker
 
-![image](image.jpg)
+![image](https://raw.githubusercontent.com/alexrony21/AT-T-Valid-Number-Checker/refs/heads/main/AT%26T_Phone_Number_Validator.png)
 
 ## Features:
 1. **Fast Checking**
